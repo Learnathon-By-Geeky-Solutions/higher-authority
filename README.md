@@ -9,34 +9,38 @@ MediAssist leverages advanced AI (LLMs with RAG) to provide accurate medical gui
 
 ---
 
-## 👥 Team Members
-- Oahednoorforhad (Team Leader)  
-- Tohedul-Islam  
-- Saifulislamrumi  
-- **Mentor: Mahmud-Nadim**
+## 👥 Team  
+| Role                | Member                          |  
+|---------------------|---------------------------------|  
+| **Team Leader**     | [Oahed Noor Forhad](https://github.com/oahednoorforhad) |  
+| **Member**| [Tohedul Islam Nirzon](https://github.com/TOHEDUL-ISLAM)      |  
+| **Member**   | [Saiful Islam Rumi](https://github.com/Saifulislamrumi)|  
+| **Mentor**          | [Mahmud Nadim](https://github.com/Mahmud-Nadim)        |  
 
 ---
 
-## 🌟 Key Features
+# 🌟 Key Features
 
-| **Category**                  | **Feature**                         | **Description**                                                                                 |
-|-------------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------|
-| **🤖 Core AI Capabilities**   | **Conversational Health Assistant** | Fine-tuned LLM with RAG integration for accurate medical responses.                             |
-|                               | **Symptoms Checker**                | AI-driven symptom analysis with condition suggestions.                                          |
-|                               | **Personalized Recommendations**    | Tailored lifestyle and diet suggestions based on health data.                                   |
-| **🧠 Health Management Suite**| **💊 Medication Tracker**           | Prescription management, smart reminders, and interaction alerts.                              |
-|                               | **🔐 Secure Vault**                 | HIPAA-compliant medical records storage and document management system.                         |
-|                               | **📋 Health Dashboard**             | Visual health metrics, trend analysis, and personalized insights.                               |
-| **🌐 Community Ecosystem**    | **📈 Upvote-Driven Feed**           | Community knowledge sharing with time filters (Daily/Weekly/Monthly).                          |
-|                               | **📌 Content Management**           | Post saving/bookmarking and a trending analytics dashboard.                                     |
-|                               | **💬 Interactive Features**         | Health polls, discussions, and collaborative learning spaces.                                   |
-| **🔄 User Experience Essentials** | **🔒 Secure Auth System**           | Login/Signup with encryption and profile management.                                           |
-|                               | **💻 Telemedicine Integration**     | Virtual appointment scheduling and doctor communication portal.                                 |
-|                               | **🔔 Smart Notifications**          | Alerts for medications, appointments, and health insights.                                      |
-| **🌍 Global Accessibility**   | **Multi-language Support**          | Support for multiple languages and cultural adaptation features.                                |
-|                               | **Regional Health Patterns**        | Recognition and adaptation to regional health trends.                                           |
+| **Feature**                     | **Description**                                                                                                                                     |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🤖 **AI Chat**                   | Fine-tuned LLM assistant for health queries, powered by RAG for context-aware medical guidance.                                                     |
+| 🗂️ **Chat History**              | Securely save, review, and export past conversations with the AI assistant.                                                                         |
+| 👤 **Account Management**        | Update profile details, health preferences, and privacy settings.                                                                                   |
+| 📈 **Upvote-Driven Community Feed** | Share health tips, upvote useful posts, and engage in community discussions.                                                                       |
+| 📆 **Daily/Weekly/Monthly Filters** | Filter community content by time periods to track trends.                                                                                         |
+| 📊 **Trending Analytics Dashboard** | Visualize popular health topics and community engagement metrics.                                                                                 |
+| 📌 **Post Bookmarks**            | Save posts for quick access and organize them into custom folders.                                                                                  |
+| 🔒 **Secure Login/Signup**       | Encrypted authentication with multi-factor verification.                                                                                            |
+| 📋 **Community Health Dashboard** | Track community-wide health metrics and personalized insights.                                                                                     |
+| 💊 **Medication Tracker**        | Manage prescriptions, set dosage reminders, and check drug interactions.                                                                            |
+| 💻 **Telemedicine Hub**          | Schedule video consultations and chat directly with healthcare providers.                                                                           |
+| 🧠 **Personalized Health Tips**  | AI-generated lifestyle, diet, and exercise recommendations based on your data.                                                                     |
+| 🤒 **Symptom Analyzer**          | Input symptoms to receive potential condition assessments and next-step guidance.                                                                   |
+| 🔐 **Encrypted Medical Vault**   | Upload and securely store lab reports, prescriptions, and medical history.                                                                          |
+| 🔔 **Smart Alerts**              | Get reminders for medications, appointments, and health checkups.                                                                                   |
+| 🌍 **Multi-Language Support**    | Use the app in 10+ languages, including regional health resources.                                                                                   |
+| 💬 **Polls & Discussions**       | Participate in community surveys and topic-specific health forums.                                                                                  |
 
----
 
 ## 🚀 Getting Started
 
