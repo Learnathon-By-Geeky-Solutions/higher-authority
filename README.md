@@ -40,7 +40,9 @@ MediAssist leverages advanced AI (LLMs with RAG) to provide accurate medical gui
 | 🔔 **Smart Alerts**              | Get reminders for medications, appointments, and health checkups.                                                                                   |
 | 🌍 **Multi-Language Support**    | Use the app in 10+ languages, including regional health resources.                                                                                   |
 | 💬 **Polls & Discussions**       | Participate in community surveys and topic-specific health forums.                                                                                  |
+| 🖼️ **Multimodal Features**       | Input and analyze data using text, images, and audio, such as uploading X-rays for analysis or describing symptoms via voice for a seamless experience. |
 
+---
 
 ## 🚀 Getting Started
 
