@@ -1,6 +1,11 @@
 # 🩺 AI Health Companion - LLM Powered Healthcare Assistant
 
-**Revolutionizing healthcare through AI-powered conversations and community-driven insights**
+**A fine-tuned LLM + RAG system for personalized medical assistance, community engagement, and health management.**
+
+---
+
+## 🌟 Project Overview
+MediAssist leverages advanced AI (LLMs with RAG) to provide accurate medical guidance, community-driven health insights, and comprehensive patient management tools. From symptom checking to telemedicine integration, we aim to revolutionize digital healthcare.
 
 ---
 
@@ -8,7 +13,7 @@
 - Oahednoorforhad (Team Leader)  
 - Tohedul-Islam  
 - Saifulislamrumi  
-- **Mentor:** Mahmud-Nadim  
+- **Mentor: Mahmud-Nadim**
 
 ---
 
