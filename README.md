@@ -12,10 +12,11 @@ MediAssist leverages advanced AI (LLMs with RAG) to provide accurate medical gui
 ## 👥 Team  
 | Role                | Member                          |  
 |---------------------|---------------------------------|  
+|**Mentor**          | [Mahmud Nadim](https://github.com/Mahmud-Nadim) |
 | **Team Leader**     | [Oahed Noor Forhad](https://github.com/oahednoorforhad) |  
 | **Member**| [Tohedul Islam Nirzon](https://github.com/TOHEDUL-ISLAM)      |  
 | **Member**   | [Saiful Islam Rumi](https://github.com/Saifulislamrumi)|  
-| **Mentor**          | [Mahmud Nadim](https://github.com/Mahmud-Nadim)        |  
+
 
 ---
 
@@ -41,6 +42,45 @@ MediAssist leverages advanced AI (LLMs with RAG) to provide accurate medical gui
 | 🌍 **Multi-Language Support**    | Use the app in 10+ languages, including regional health resources.                                                                                   |
 | 💬 **Polls & Discussions**       | Participate in community surveys and topic-specific health forums.                                                                                  |
 | 🖼️ **Multimodal Features**       | Input and analyze data using text, images, and audio, such as uploading X-rays for analysis or describing symptoms via voice for a seamless experience. |
+
+---
+
+# Technologies Used 
+
+## Frontend
+- **Next.js**: React-based framework for server-side rendering and static site generation.
+- **TypeScript**: Type-safe superset of JavaScript.
+- **Redux Toolkit**: State management for React apps.
+- **Chart.js**: Data visualization library for graphs and charts.
+- **Figma**: UI/UX design and prototyping tool.
+- **i18next**: Internationalization library (stretch goal).
+
+## Backend
+- **Express.js**: Node.js framework for building REST APIs.
+- **MongoDB (Atlas)**: NoSQL database for storing data.
+- **Firebase Auth**: Authentication system with support for social logins (Google, Facebook, etc.).
+- **Cron Jobs**: Task scheduler for medication reminders.
+- **AWS EC2**: Cloud platform for hosting backend services.
+- **Swagger/Postman**: API documentation and testing tools.
+
+## AI/ML
+- **DeepSeek**: Fine-tuned LLM for symptom analysis and AI-powered chat.
+- **RAG (Retrieval-Augmented Generation)**: Context retrieval pipeline for personalized recommendations.
+- **AI Optimization**: Enhancements to improve inference speed.
+- **Multimodal AI**: Integration of different modalities (text, images, speech, etc.) to create a more interactive and dynamic health assistant.
+
+## DevOps/Deployment
+- **Vercel**: Deployment platform for the Next.js frontend.
+- **AWS EC2**: Hosting backend services.
+- **GitHub**: Version control and Kanban-based project management.
+
+## Security
+- **AES-256 Encryption**: Secure storage for medical records.
+- **HIPAA Compliance**: Adherence to healthcare data privacy and security standards.
+
+## QA/Testing
+- **Regression Testing**: Comprehensive testing of user workflows.
+- **Critical Path Testing**: Focus on key user flows like authentication, chat, and reminders.
 
 ---
 
