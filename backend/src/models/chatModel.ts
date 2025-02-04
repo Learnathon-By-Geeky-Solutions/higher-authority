@@ -29,7 +29,8 @@ const conversationSchema = new mongoose.Schema({
 // Define the main Chat schema
 const chatSchema = new mongoose.Schema({
   uid: {
-    type: Number,  // Links to the user's unique ID
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Auth',
     required: true,
     unique: true
   },
@@ -39,4 +40,4 @@ const chatSchema = new mongoose.Schema({
   }
 });
 
-module.exports = mongoose.model("Chat", chatSchema);
+export default mongoose.model("Chat", chatSchema);
