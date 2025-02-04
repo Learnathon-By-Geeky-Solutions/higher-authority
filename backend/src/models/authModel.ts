@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+import validator from "validator";
 const authSchema = new mongoose.Schema({
     uid: {
         type: String,
@@ -14,10 +14,13 @@ const authSchema = new mongoose.Schema({
     },
     email: {
         type: String,
-    required: true,
-    unique: true,
-    lowercase: true,
-    match: [/.+\@.+\..+/, "Please fill a valid email address"]
+        required: true,
+        unique: true,
+        lowercase: true,
+        validate: {
+            validator: (value: string) => validator.isEmail(value),
+            message: "Invalid Email"
+        }
     },
     password: {
         type: String,

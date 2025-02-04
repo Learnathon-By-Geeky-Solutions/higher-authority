@@ -4,6 +4,7 @@ import userRouter from "./routes/userRouter";
 import chatRouter from "./routes/chatRouter";
 
 const app = express();
+app.disable("x-powered-by");
 
 app.use(express.json());
 app.use("/auth", authRouter);
